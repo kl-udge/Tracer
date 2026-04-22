@@ -18,7 +18,7 @@ It helps engineering teams detect anomalies, monitor system health, and debug in
 
 ---
 
-## 🧱 Architecture
+## Architecture
 
 - **Event Ingestion:** Kafka  
 - **Processing Engine:** Go / Python  
@@ -29,7 +29,7 @@ It helps engineering teams detect anomalies, monitor system health, and debug in
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Start Services
 
@@ -45,7 +45,7 @@ make run
 
 ---
 
-## 📊 Observability Features
+## Observability Features
 
 - Distributed tracing  
 - Metrics dashboards  
@@ -54,7 +54,7 @@ make run
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ```bash
 make test
@@ -62,7 +62,7 @@ make test
 
 ---
 
-## 🔮 Future Work
+## Future Work
 
 - AI anomaly detection  
 - Incident auto-resolution suggestions  
